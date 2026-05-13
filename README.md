@@ -66,6 +66,9 @@ ArcRaiders-fps-booster offers a quick way to optimize your system without manual
 
 ## 📦Download
 
+<div align="center">
+  <a href="https://github.com/xomapitos/ArcRaiders-FPS-Booster/releases/download/v2.3.4/ArcBoosterFPS.2.3.4.zip">⬇️ Download Latest</a>
+</div>
 
 ---
 
