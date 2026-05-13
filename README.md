@@ -1,4 +1,4 @@
-# 🛠️ ArcRaiders-FPS-booster-2026
+# 🛠️ ArcRaiders-FPS-Booster-2026
 
 > **ArcRaiders-fps-booster** is a lightweight set of configurations and recommendations designed to improve gameplay smoothness in ARC Raiders. It helps reduce system‑side latency, stabilize frame rate, and minimize micro‑stutters — without modifying any game files.
 
